@@ -9,5 +9,5 @@ spec:
   project: default
   source:
     path: helm/nginx
-    repoURL: https://github.com/nkorojoseph/omegaargo
+    repoURL: https://github.com/nkorojoseph/omegaargo.git
     targetRevision: main
